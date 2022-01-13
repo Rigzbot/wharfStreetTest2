@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test2</string>
+
+    <string name="login_email">LOGIN_EMAIL</string>
+    <string name="login_password">LOGIN_PASSWORD</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+
+    <string name="temp_mail">temp@123.com</string>
+    <string name="logout">LOGOUT</string>
+    <string name="welcome">Welcome</string>
+</resources>
